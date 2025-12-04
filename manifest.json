@@ -1,6 +1,6 @@
 {
-  "name": "CRYPTO & STOCK TRACKER PRO",
-  "short_name": "CryptoTracker",
+  "name": "Bitcoin web online",
+  "short_name": "BitcoinWeb",
   "description": "Seguí tus transacciones y ganancias en criptomonedas y acciones",
   "start_url": "/index.html",
   "display": "standalone",
